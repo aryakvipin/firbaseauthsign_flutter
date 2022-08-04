@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417191399128",
+    "project_id": "sampleprojcet-2e321",
+    "storage_bucket": "sampleprojcet-2e321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417191399128:android:a23b13d381f012f0aa51ad",
+        "android_client_info": {
+          "package_name": "com.example.firbase_exmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417191399128-a6hgueink760m9c2vhdt70mu2nid0gor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr9dxyKxDNm62XQgh18ysTqPN0Bn2wwGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417191399128-a6hgueink760m9c2vhdt70mu2nid0gor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
